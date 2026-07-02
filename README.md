@@ -8,15 +8,15 @@ Production-oriented trading platform built with FastAPI, Next.js, SQLite and Doc
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME/tabdeal-ai-trading-panel">
+<a href="https://github.com/cybergoOod-KMT/tabdeal-ai-trading-panel">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/tabdeal-ai-trading-panel/actions">
+<a href="https://github.com/cybergoOod-KMT/tabdeal-ai-trading-panel/actions">
 <img src="https://img.shields.io/badge/CI-GitHub%20Actions-blue?style=for-the-badge&logo=githubactions">
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:kmt.suport@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
 </a>
 
@@ -206,8 +206,8 @@ Choose and add the license you want before publishing, for example:
 
 # Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_EMAIL@example.com
+- GitHub: https://github.com/cybergoOod-KMT
+- Email: kmt.suport@gmail.com
 
 ---
 
