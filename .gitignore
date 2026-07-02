@@ -1,0 +1,14 @@
+.env
+apps/api/data/
+apps/api/logs/
+apps/api/.venv/
+apps/web/.next/
+apps/web/node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+logs/
+.codex/
+.agents/
+panel-login.png
