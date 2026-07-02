@@ -170,7 +170,14 @@ Real execution is allowed only when all safety conditions pass, including:
 - backend confirmation token
 
 ---
-https://github.com/cybergoOod-KMT/Ai-Trader-Bot-Panel1/blob/main/Screenshot%202026-07-02%20151036.png
+<h2>Screenshot</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cybergoOod-KMT/Ai-Trader-Bot-Panel1/main/Screenshot%202026-07-02%20151036.png"
+       width="900"
+       alt="AI Trader Bot Panel">
+</p>
+
 # Main Pages
 
 - `/dashboard`
